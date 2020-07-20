@@ -14,6 +14,10 @@ I'm also just interested in solving some hard problems which haven't been solved
 
 #### Things I've done recently
 
+##### 🌫 [React Ambient](https://a-type.github.io/react-ambient)
+
+A tiny library for dynamic backgrounds based on the most visible page content. I focused on making it as easy to use as possible.
+
 ##### ☁ Clouds [Live demo](https://grantforrest.dev/demos/clouds)
 
 I love clouds, so I created some using procedural generation and WebGL. They're all dynamically constructed right in your browser. That's where the image you see above comes from!
