@@ -2,8 +2,6 @@
 
 I write elegant code to power innovative user experiences. My focus is React, complemented by TypeScript, GraphQL, and graph databases.
 
-![Clouds image](https://github.com/a-type/a-type/blob/master/media/cloud.png)
-
 #### [🌎 grantforrest.dev](https://grantforrest.dev)
 
 #### What I'm interested in these days
