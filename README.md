@@ -1,5 +1,14 @@
 ### Grant Forrest
 
-I write elegant code to power innovative user experiences. My focus is React, complemented by TypeScript and GraphQL.
+I'm constantly making things. 
 
-#### [🌎 grantforrest.dev](https://grantforrest.dev)
+I prefer to make pretty stuff you can
+click on. 
+
+Sometimes I get in a mood and make invisible stuff that
+runs on a box somewhere instead. 
+
+What really gets me onboard is if
+it's never been done before.
+
+#### [🌎  gfor.rest](https://gfor.rest)
